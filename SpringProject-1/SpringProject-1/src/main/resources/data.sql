@@ -1,0 +1,1 @@
+insert into Microservice2 values('aastha','aashishaastha06@gmail.com','aastha','aastha06',1234567,'aastha');
